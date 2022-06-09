@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Text;
 
 namespace Api.Domain.Entities
 {
@@ -16,7 +14,7 @@ namespace Api.Domain.Entities
         {
             get { return _createAt; }
             // se o valor for igual a null vai receber a data de agora
-            set { _createAt = (value == null ? DateTime.UtcNow : value); } 
+            set { _createAt = (value == null ? DateTime.UtcNow : value); }
         }
 
         public DateTime? UpdateAt { get; set; }

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Api.Domain.Entities
+﻿namespace Api.Domain.Entities
 {
     public class UserEntity : BaseEntity
     {
