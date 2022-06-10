@@ -1,0 +1,16 @@
+C:\Users\Wendell\Desktop\Programação\Api\Api.Data\bin\Debug\netcoreapp3.1\Api.Data.deps.json
+C:\Users\Wendell\Desktop\Programação\Api\Api.Data\bin\Debug\netcoreapp3.1\Api.Data.runtimeconfig.json
+C:\Users\Wendell\Desktop\Programação\Api\Api.Data\bin\Debug\netcoreapp3.1\Api.Data.runtimeconfig.dev.json
+C:\Users\Wendell\Desktop\Programação\Api\Api.Data\bin\Debug\netcoreapp3.1\Api.Data.dll
+C:\Users\Wendell\Desktop\Programação\Api\Api.Data\bin\Debug\netcoreapp3.1\Api.Data.pdb
+C:\Users\Wendell\Desktop\Programação\Api\Api.Data\bin\Debug\netcoreapp3.1\Api.Domain.dll
+C:\Users\Wendell\Desktop\Programação\Api\Api.Data\bin\Debug\netcoreapp3.1\Api.Domain.pdb
+C:\Users\Wendell\Desktop\Programação\Api\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.csproj.AssemblyReference.cache
+C:\Users\Wendell\Desktop\Programação\Api\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wendell\Desktop\Programação\Api\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.AssemblyInfoInputs.cache
+C:\Users\Wendell\Desktop\Programação\Api\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.AssemblyInfo.cs
+C:\Users\Wendell\Desktop\Programação\Api\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.csproj.CoreCompileInputs.cache
+C:\Users\Wendell\Desktop\Programação\Api\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.csproj.CopyComplete
+C:\Users\Wendell\Desktop\Programação\Api\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.dll
+C:\Users\Wendell\Desktop\Programação\Api\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.pdb
+C:\Users\Wendell\Desktop\Programação\Api\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.genruntimeconfig.cache

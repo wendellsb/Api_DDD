@@ -1,0 +1,10 @@
+C:\Users\Wendell\Desktop\Programação\Api\Api.Domain\bin\Debug\netcoreapp3.1\Api.Domain.deps.json
+C:\Users\Wendell\Desktop\Programação\Api\Api.Domain\bin\Debug\netcoreapp3.1\Api.Domain.dll
+C:\Users\Wendell\Desktop\Programação\Api\Api.Domain\bin\Debug\netcoreapp3.1\Api.Domain.pdb
+C:\Users\Wendell\Desktop\Programação\Api\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.csproj.AssemblyReference.cache
+C:\Users\Wendell\Desktop\Programação\Api\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wendell\Desktop\Programação\Api\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.AssemblyInfoInputs.cache
+C:\Users\Wendell\Desktop\Programação\Api\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.AssemblyInfo.cs
+C:\Users\Wendell\Desktop\Programação\Api\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Wendell\Desktop\Programação\Api\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.dll
+C:\Users\Wendell\Desktop\Programação\Api\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.pdb

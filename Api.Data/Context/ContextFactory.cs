@@ -1,7 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore.Design;
-using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Design;
 
 namespace Api.Data.Context
 {
@@ -9,6 +7,11 @@ namespace Api.Data.Context
     {
         public MyContext CreateDbContext(string[] args)
         {
-            var connectionString = ""
+            // Usado para criar as Migrações
+            var connectionString = "Server=localhost;Port=3306;DataBase=dbAPI;Uid=root;Pwd=wendellzl";
+            var optionsBuilder = new DbContextOptionsBuilder<MyContext>();
+            optionsBuilder.UseMySql(connectionString);
+            return new MyContext(optionsBuilder.Options);
+        }
     }
 }

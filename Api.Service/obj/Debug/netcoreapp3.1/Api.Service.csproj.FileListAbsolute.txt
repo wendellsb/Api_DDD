@@ -1,0 +1,10 @@
+C:\Users\Wendell\Desktop\Programação\Api\Api.Service\bin\Debug\netcoreapp3.1\Api.Service.deps.json
+C:\Users\Wendell\Desktop\Programação\Api\Api.Service\bin\Debug\netcoreapp3.1\Api.Service.dll
+C:\Users\Wendell\Desktop\Programação\Api\Api.Service\bin\Debug\netcoreapp3.1\Api.Service.pdb
+C:\Users\Wendell\Desktop\Programação\Api\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.csproj.AssemblyReference.cache
+C:\Users\Wendell\Desktop\Programação\Api\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wendell\Desktop\Programação\Api\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.AssemblyInfoInputs.cache
+C:\Users\Wendell\Desktop\Programação\Api\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.AssemblyInfo.cs
+C:\Users\Wendell\Desktop\Programação\Api\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.csproj.CoreCompileInputs.cache
+C:\Users\Wendell\Desktop\Programação\Api\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.dll
+C:\Users\Wendell\Desktop\Programação\Api\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.pdb
