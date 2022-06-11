@@ -1298,16 +1298,6 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "Api.CrossCutting/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/Api.CrossCutting.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Api.CrossCutting.dll": {}
-        }
-      },
       "Api.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -5086,11 +5076,6 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "Api.CrossCutting/1.0.0": {
-      "type": "project",
-      "path": "../Api.CrossCutting/Api.CrossCutting.csproj",
-      "msbuildProject": "../Api.CrossCutting/Api.CrossCutting.csproj"
-    },
     "Api.Data/1.0.0": {
       "type": "project",
       "path": "../Api.Data/Api.Data.csproj",
@@ -5104,7 +5089,6 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Api.CrossCutting >= 1.0.0",
       "Api.Data >= 1.0.0",
       "Api.Domain >= 1.0.0"
     ]
@@ -5136,9 +5120,6 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Wendell\\Desktop\\Programação\\Api\\Api.CrossCutting\\Api.CrossCutting.csproj": {
-              "projectPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api\\Api.CrossCutting\\Api.CrossCutting.csproj"
-            },
             "C:\\Users\\Wendell\\Desktop\\Programação\\Api\\Api.Data\\Api.Data.csproj": {
               "projectPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api\\Api.Data\\Api.Data.csproj"
             },
