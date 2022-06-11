@@ -100,7 +100,7 @@ namespace Api.Data.Repository
         }
 
 
-        public async Task<T> SelectAsyn(Guid id)
+        public async Task<T> SelectAsync(Guid id)
         {
             try
             {

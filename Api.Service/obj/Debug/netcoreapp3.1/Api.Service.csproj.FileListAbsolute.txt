@@ -8,3 +8,8 @@ C:\Users\Wendell\Desktop\Programação\Api\Api.Service\obj\Debug\netcoreapp3.1\A
 C:\Users\Wendell\Desktop\Programação\Api\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.csproj.CoreCompileInputs.cache
 C:\Users\Wendell\Desktop\Programação\Api\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.dll
 C:\Users\Wendell\Desktop\Programação\Api\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.pdb
+C:\Users\Wendell\Desktop\Programação\Api\Api.Service\bin\Debug\netcoreapp3.1\Api.Data.dll
+C:\Users\Wendell\Desktop\Programação\Api\Api.Service\bin\Debug\netcoreapp3.1\Api.Domain.dll
+C:\Users\Wendell\Desktop\Programação\Api\Api.Service\bin\Debug\netcoreapp3.1\Api.Data.pdb
+C:\Users\Wendell\Desktop\Programação\Api\Api.Service\bin\Debug\netcoreapp3.1\Api.Domain.pdb
+C:\Users\Wendell\Desktop\Programação\Api\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.csproj.CopyComplete

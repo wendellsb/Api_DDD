@@ -8,3 +8,10 @@ C:\Users\Wendell\Desktop\Programação\Api\Api.CrossCutting\obj\Debug\netcoreapp
 C:\Users\Wendell\Desktop\Programação\Api\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.csproj.CoreCompileInputs.cache
 C:\Users\Wendell\Desktop\Programação\Api\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.dll
 C:\Users\Wendell\Desktop\Programação\Api\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.pdb
+C:\Users\Wendell\Desktop\Programação\Api\Api.CrossCutting\bin\Debug\netcoreapp3.1\Api.Data.dll
+C:\Users\Wendell\Desktop\Programação\Api\Api.CrossCutting\bin\Debug\netcoreapp3.1\Api.Domain.dll
+C:\Users\Wendell\Desktop\Programação\Api\Api.CrossCutting\bin\Debug\netcoreapp3.1\Api.Service.dll
+C:\Users\Wendell\Desktop\Programação\Api\Api.CrossCutting\bin\Debug\netcoreapp3.1\Api.Data.pdb
+C:\Users\Wendell\Desktop\Programação\Api\Api.CrossCutting\bin\Debug\netcoreapp3.1\Api.Domain.pdb
+C:\Users\Wendell\Desktop\Programação\Api\Api.CrossCutting\bin\Debug\netcoreapp3.1\Api.Service.pdb
+C:\Users\Wendell\Desktop\Programação\Api\Api.CrossCutting\obj\Debug\netcoreapp3.1\Api.CrossCutting.csproj.CopyComplete
