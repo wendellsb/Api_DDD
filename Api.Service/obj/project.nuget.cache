@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qlenf1fAuzvtFuShyNEfPJXWpzE/eUK3YtQOQCvodEpdZrt1oBWrH2+Y8I1Kzjfx/uUFLttBhtt1IDji9GZ/eg==",
+  "dgSpecHash": "pJ1dwTqdoAsbJFwT9C+QA9cf3rXUmTK4eCACnHsEzAP0JLCWuFrlhVL97bRC4vReIcEoPTDgI4BrWnbGJLg0yg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api\\Api.Service\\Api.Service.csproj",
+  "projectFilePath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Service\\Api.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wendell\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Wendell\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

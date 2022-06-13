@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NnrA6SARzrBdOoQXR7mmsSPCItsfTF88QewAZCp7vKA+pOmaEYceLWV2PxC0j8YJBA3pnVWrwLtCdwx9d64dow==",
+  "dgSpecHash": "FDqCwM4Jl0+yITnbMmP0PXXuyewMvFU0d/kgKyrqpw9Z39Q3acQdCTdFb32QSqiFLcwoSfmFKEiwxjDrtj+bzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api\\Api.Application\\Api.Application.csproj",
+  "projectFilePath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Application\\Api.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wendell\\.nuget\\packages\\automapper\\8.1.1\\automapper.8.1.1.nupkg.sha512",
     "C:\\Users\\Wendell\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.1.1\\automapper.extensions.microsoft.dependencyinjection.6.1.1.nupkg.sha512",

@@ -5196,11 +5196,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wendell\\Desktop\\Programação\\Api\\Api.Application\\Api.Application.csproj",
+      "projectUniqueName": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Application\\Api.Application.csproj",
       "projectName": "Api.Application",
-      "projectPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api\\Api.Application\\Api.Application.csproj",
+      "projectPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Application\\Api.Application.csproj",
       "packagesPath": "C:\\Users\\Wendell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api\\Api.Application\\obj\\",
+      "outputPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Wendell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5217,14 +5217,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Wendell\\Desktop\\Programação\\Api\\Api.CrossCutting\\Api.CrossCutting.csproj": {
-              "projectPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api\\Api.CrossCutting\\Api.CrossCutting.csproj"
+            "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.CrossCutting\\Api.CrossCutting.csproj": {
+              "projectPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.CrossCutting\\Api.CrossCutting.csproj"
             },
-            "C:\\Users\\Wendell\\Desktop\\Programação\\Api\\Api.Domain\\Api.Domain.csproj": {
-              "projectPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api\\Api.Domain\\Api.Domain.csproj"
+            "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Domain\\Api.Domain.csproj": {
+              "projectPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Domain\\Api.Domain.csproj"
             },
-            "C:\\Users\\Wendell\\Desktop\\Programação\\Api\\Api.Service\\Api.Service.csproj": {
-              "projectPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api\\Api.Service\\Api.Service.csproj"
+            "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Service\\Api.Service.csproj": {
+              "projectPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Service\\Api.Service.csproj"
             }
           }
         }

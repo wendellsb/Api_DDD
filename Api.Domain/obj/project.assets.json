@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wendell\\Desktop\\Programação\\Api\\Api.Domain\\Api.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Domain\\Api.Domain.csproj",
       "projectName": "Api.Domain",
-      "projectPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api\\Api.Domain\\Api.Domain.csproj",
+      "projectPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Domain\\Api.Domain.csproj",
       "packagesPath": "C:\\Users\\Wendell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api\\Api.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Wendell\\AppData\\Roaming\\NuGet\\NuGet.Config",
