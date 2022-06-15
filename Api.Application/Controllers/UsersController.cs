@@ -27,7 +27,6 @@ namespace Api.Application.Controllers
                 //Verificação se a entrada do usuário é válida para o método
                 return BadRequest(ModelState); //400 solicitação inválida
             }
-
             try
             {
                 return Ok(await _service.GetAll()); //Retorno da Interface, injetada no método
@@ -48,7 +47,6 @@ namespace Api.Application.Controllers
             {
                 return BadRequest(ModelState); //400 solicitação inválida
             }
-
             try
             {
                 return Ok(await _service.Get(id));
@@ -66,7 +64,6 @@ namespace Api.Application.Controllers
             {
                 return BadRequest(ModelState); //400 solicitação inválida
             }
-
             try
             {
                 var result = await _service.Post(user);
@@ -84,6 +81,5 @@ namespace Api.Application.Controllers
                 return StatusCode((int)HttpStatusCode.InternalServerError, e.Message);
             }
         }
-
     }
 }
