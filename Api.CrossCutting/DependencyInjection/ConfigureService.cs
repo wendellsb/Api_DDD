@@ -8,9 +8,13 @@ namespace Api.CrossCutting.DependencyInjection
     {
         public static void ConfigureDependenciesService(IServiceCollection serviceCollection)
         {
-            // transient - para cada operação que tiver injeção de dependencia ele cria uma instancia de User
-            // scoped - significa que se ele entrar numa operação ele pode usar 10x a mesma instancia, no caso por ciclo de vida
-            // singleton - serviço vai ser executado uma vez só
+            // singleton - Significa que apenas uma única instância será criada. Essa instância é compartilhada entre todos os componentes
+            // que exigem isso. A mesma instância é, portanto, usada sempre.
+
+            // scoped - Uma instância é criada uma vez por escopo. Um escopo é criado em cada solicitação para o aplicativo (cada pedido é um escopo),
+            // portanto, todos os componentes registrados como scoped serão criados uma vez por solicitação.
+
+            // transient - Os componentes são criados toda vez que são solicitados e nunca são compartilhados.
             serviceCollection.AddTransient<IUserService, UserService>();
         }
     }
