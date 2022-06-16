@@ -51,9 +51,9 @@ namespace Api.Application.Controllers
             {
                 return Ok(await _service.Get(id));
             }
-            catch(ArgumentException e)
+            catch (ArgumentException e)
             {
-                return StatusCode((int) HttpStatusCode.InternalServerError, e.Message);
+                return StatusCode((int)HttpStatusCode.InternalServerError, e.Message);
             }
         }
 
@@ -67,9 +67,9 @@ namespace Api.Application.Controllers
             try
             {
                 var result = await _service.Post(user);
-                if(result != null)
+                if (result != null)
                 {
-                    return Created(new Uri(Url.Link("GetWithId", new {id = result.Id} )), result);
+                    return Created(new Uri(Url.Link("GetWithId", new { id = result.Id })), result);
                 }
                 else
                 {
@@ -81,5 +81,33 @@ namespace Api.Application.Controllers
                 return StatusCode((int)HttpStatusCode.InternalServerError, e.Message);
             }
         }
+
+        [HttpPut]
+        public async Task<ActionResult> Put([FromBody] UserEntity user)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState); //400 solicitação inválida
+            }
+
+            try
+            {
+                var result = await _service.Put(user);
+                if (result != null)
+                {
+                    return Ok(result);
+                }
+                else
+                {
+                    return BadRequest();
+                }
+            }
+            catch (ArgumentException e)
+            {
+                return StatusCode((int)HttpStatusCode.InternalServerError, e.Message);
+            }
+        }
+
+
     }
 }
