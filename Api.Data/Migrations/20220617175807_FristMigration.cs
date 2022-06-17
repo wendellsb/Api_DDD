@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace Api.Data.Migrations
 {
-    public partial class UserMigration : Migration
+    public partial class FristMigration : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
