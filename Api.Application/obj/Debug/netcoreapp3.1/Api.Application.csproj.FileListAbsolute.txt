@@ -130,3 +130,8 @@ C:\Users\Wendell\Desktop\Programação\Api_DDD\Api.Application\obj\Debug\netcore
 C:\Users\Wendell\Desktop\Programação\Api_DDD\Api.Application\obj\Debug\netcoreapp3.1\Api.Application.dll
 C:\Users\Wendell\Desktop\Programação\Api_DDD\Api.Application\obj\Debug\netcoreapp3.1\Api.Application.pdb
 C:\Users\Wendell\Desktop\Programação\Api_DDD\Api.Application\obj\Debug\netcoreapp3.1\Api.Application.genruntimeconfig.cache
+C:\Users\Wendell\Desktop\Programação\Api_DDD\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Wendell\Desktop\Programação\Api_DDD\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Wendell\Desktop\Programação\Api_DDD\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Wendell\Desktop\Programação\Api_DDD\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Wendell\Desktop\Programação\Api_DDD\Api.Application\obj\Debug\netcoreapp3.1\Api.Application.MvcApplicationPartsAssemblyInfo.cs
