@@ -11,9 +11,9 @@ namespace Api.Domain.Interfaces.Services.Users
 
         Task<IEnumerable<UserEntity>> GetAll(); // pega todos os usuarios e devolve uma lista de usuarios
 
-        Task<UserEntity> Post(UserEntity user); 
+        Task<UserEntity> Post(UserEntity user);
 
-        Task<UserEntity> Put (UserEntity user);
+        Task<UserEntity> Put(UserEntity user);
 
         Task<bool> Delete(Guid id);
 

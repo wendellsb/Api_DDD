@@ -1,7 +1,6 @@
 ﻿using Api.Domain.Entities;
 using Api.Domain.Interfaces.Services.Users;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 using System;
 using System.Net;
 using System.Threading.Tasks;

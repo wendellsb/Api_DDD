@@ -12,7 +12,7 @@ namespace Api.Data.Repository
     {
         protected readonly MyContext _context;
         private DbSet<T> _dataset;
-        public BaseRepository(MyContext context) // injeção de dependencia
+        public BaseRepository(MyContext context) //injeção de dependencia
         {
             _context = context;
             _dataset = _context.Set<T>();
@@ -51,7 +51,7 @@ namespace Api.Data.Repository
                 var result = await _dataset.SingleOrDefaultAsync(p => p.Id.Equals(item.Id));
 
                 // se result == null ele vai retornar como resposta o valor null
-                if (result == null) 
+                if (result == null)
                     return null;
 
                 item.UpdateAt = DateTime.UtcNow; // retorna a data atual
@@ -93,10 +93,10 @@ namespace Api.Data.Repository
             }
         }
 
-        public async Task<bool> ExistAsync ( Guid id) 
+        public async Task<bool> ExistAsync(Guid id)
         {
             // verifica se no banco existe qualquer id recebido, devolvendo auma task verdadeiro ou falso
-            return await _dataset.AnyAsync (p => p.Id.Equals(id));
+            return await _dataset.AnyAsync(p => p.Id.Equals(id));
         }
 
 
@@ -106,7 +106,7 @@ namespace Api.Data.Repository
             {
                 return await _dataset.SingleOrDefaultAsync(p => p.Id.Equals(id));
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 throw ex;
             }
@@ -124,6 +124,6 @@ namespace Api.Data.Repository
             }
         }
 
-        
+
     }
 }

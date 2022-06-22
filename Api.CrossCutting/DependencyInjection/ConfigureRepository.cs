@@ -3,9 +3,6 @@ using Api.Data.Repository;
 using Api.Domain.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Api.CrossCutting.DependencyInjection
 {
