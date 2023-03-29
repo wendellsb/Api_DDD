@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Application\\Api.Application.csproj": {}
+    "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Application\\Api.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Application\\Api.Application.csproj": {
+    "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Application\\Api.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Application\\Api.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Application\\Api.Application.csproj",
         "projectName": "Api.Application",
-        "projectPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Application\\Api.Application.csproj",
+        "projectPath": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Application\\Api.Application.csproj",
         "packagesPath": "C:\\Users\\Wendell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Application\\obj\\",
+        "outputPath": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Wendell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,14 +28,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.CrossCutting\\Api.CrossCutting.csproj": {
-                "projectPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.CrossCutting\\Api.CrossCutting.csproj"
+              "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.CrossCutting\\Api.CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.CrossCutting\\Api.CrossCutting.csproj"
               },
-              "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Domain\\Api.Domain.csproj": {
-                "projectPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Domain\\Api.Domain.csproj"
+              "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Domain\\Api.Domain.csproj": {
+                "projectPath": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Domain\\Api.Domain.csproj"
               },
-              "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Service\\Api.Service.csproj": {
-                "projectPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Service\\Api.Service.csproj"
+              "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Service\\Api.Service.csproj": {
+                "projectPath": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Service\\Api.Service.csproj"
               }
             }
           }
@@ -61,7 +61,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -73,18 +74,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.CrossCutting\\Api.CrossCutting.csproj": {
+    "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.CrossCutting\\Api.CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.CrossCutting\\Api.CrossCutting.csproj",
+        "projectUniqueName": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.CrossCutting\\Api.CrossCutting.csproj",
         "projectName": "Api.CrossCutting",
-        "projectPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.CrossCutting\\Api.CrossCutting.csproj",
+        "projectPath": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.CrossCutting\\Api.CrossCutting.csproj",
         "packagesPath": "C:\\Users\\Wendell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.CrossCutting\\obj\\",
+        "outputPath": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Wendell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -101,14 +102,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Data\\Api.Data.csproj": {
-                "projectPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Data\\Api.Data.csproj"
+              "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Data\\Api.Data.csproj": {
+                "projectPath": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Data\\Api.Data.csproj"
               },
-              "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Domain\\Api.Domain.csproj": {
-                "projectPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Domain\\Api.Domain.csproj"
+              "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Domain\\Api.Domain.csproj": {
+                "projectPath": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Domain\\Api.Domain.csproj"
               },
-              "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Service\\Api.Service.csproj": {
-                "projectPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Service\\Api.Service.csproj"
+              "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Service\\Api.Service.csproj": {
+                "projectPath": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Service\\Api.Service.csproj"
               }
             }
           }
@@ -134,7 +135,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -143,18 +145,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Data\\Api.Data.csproj": {
+    "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Data\\Api.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Data\\Api.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Data\\Api.Data.csproj",
         "projectName": "Api.Data",
-        "projectPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Data\\Api.Data.csproj",
+        "projectPath": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Data\\Api.Data.csproj",
         "packagesPath": "C:\\Users\\Wendell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Data\\obj\\",
+        "outputPath": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Wendell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -171,8 +173,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Domain\\Api.Domain.csproj": {
-                "projectPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Domain\\Api.Domain.csproj"
+              "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Domain\\Api.Domain.csproj": {
+                "projectPath": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Domain\\Api.Domain.csproj"
               }
             }
           }
@@ -214,7 +216,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -223,18 +226,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Domain\\Api.Domain.csproj": {
+    "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Domain\\Api.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Domain\\Api.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Domain\\Api.Domain.csproj",
         "projectName": "Api.Domain",
-        "projectPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Domain\\Api.Domain.csproj",
+        "projectPath": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Domain\\Api.Domain.csproj",
         "packagesPath": "C:\\Users\\Wendell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Wendell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -268,7 +271,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -277,18 +281,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Service\\Api.Service.csproj": {
+    "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Service\\Api.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Service\\Api.Service.csproj",
+        "projectUniqueName": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Service\\Api.Service.csproj",
         "projectName": "Api.Service",
-        "projectPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Service\\Api.Service.csproj",
+        "projectPath": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Service\\Api.Service.csproj",
         "packagesPath": "C:\\Users\\Wendell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Service\\obj\\",
+        "outputPath": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Wendell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -305,11 +309,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Data\\Api.Data.csproj": {
-                "projectPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Data\\Api.Data.csproj"
+              "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Data\\Api.Data.csproj": {
+                "projectPath": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Data\\Api.Data.csproj"
               },
-              "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Domain\\Api.Domain.csproj": {
-                "projectPath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Domain\\Api.Domain.csproj"
+              "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Domain\\Api.Domain.csproj": {
+                "projectPath": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Domain\\Api.Domain.csproj"
               }
             }
           }
@@ -329,7 +333,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -338,7 +343,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

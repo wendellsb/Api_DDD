@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DBfjDosdWWXAaWuAAQxKpxKod998Kn9pYXB9Z1dWbRuUzl4wkfe9lbXNH7hr1rH+YpjGt3B3GIDjQZ+7RHsFTw==",
+  "dgSpecHash": "nxxMUq16ZS+uQx14ork0XFCEhFHEKheXsuRD1oBdhRiuYAG9B3IJdK55D3EQktFp/OkV3QWl3damJhMYQqDIdA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wendell\\Desktop\\Programação\\Api_DDD\\Api.Domain\\Api.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\Api_DDD\\Api.Domain\\Api.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
